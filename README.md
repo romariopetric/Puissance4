@@ -1,2 +1,1 @@
-# Puissance4
-Conception d'un puissance 4 en Javascript
+./node_modules/.bin/babel src --out-dir lib --presets=@babel/preset-env
